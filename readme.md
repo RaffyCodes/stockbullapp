@@ -17,6 +17,9 @@ Some future updates I would like to make are:
 # Contributing
 Please make any pull requests you feel are useful. For major changes, please open an issue first to discuss what you would like to change.
 
+# Raffy Web Design
+Please check out more of my work at https://www.raffywebdesign.com
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
