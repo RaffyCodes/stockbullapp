@@ -1,0 +1,29 @@
+body {
+    background-color: #2F8037;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 10px;
+}
+
+h1 {
+    color: #7CBB00;
+    margin: 0px;
+    font-size: 120px;
+    font-family: 'Oswald', sans-serif;
+}
+h2 {
+    color: #1e1e1e;
+    font-size: 36px;
+    font-family: 'Oswald', sans-serif;
+}
+#stock {
+    color: white; 
+    font-size: 128px;
+    font-family: 'Oswald', sans-serif;
+}
+#updated {
+    color: #1e1e1e;
+    font-size: 32px;
+    font-family: 'Oswald', sans-serif;
+    
+}
